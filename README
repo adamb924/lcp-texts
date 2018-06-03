@@ -1,0 +1,3 @@
+The files in this folder are the complete web page. (Note that the interface doesn't work properly if index.html is opened as a file in a browser. It needs to be on a server.)
+
+The HTML files that contain the texts are generated using the files in the “Work” directory. See “saxon.bat” for XSL transformation commands.

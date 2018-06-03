@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flextext2html-configuration>
+	<meta-language lang="en"/>
+	<line type="txt" writing-system="prs-Arab"/>
+	<line type="txt" writing-system="en-latin"/>
+	<line type="morph" baseline-writing-system="prs-IPA" line-type="txt" display-writing-system="prs-IPA" />
+	<line type="morph" baseline-writing-system="prs-IPA" line-type="gls" display-writing-system="en-latin" />
+</flextext2html-configuration>
