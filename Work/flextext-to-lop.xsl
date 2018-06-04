@@ -50,6 +50,7 @@
 <div class="text"><xsl:text>
 </xsl:text><xsl:apply-templates/>
 </div>
+<div style="height: 200px;"> </div>
 </body>
 </html>
 </xsl:template>
